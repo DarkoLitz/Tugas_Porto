@@ -1,0 +1,22 @@
+@media screen and (max-width:480px) {
+  .flex_container{
+    flex-direction: column;
+    padding: 20px;
+  }
+  .rounded_card{
+    width: auto;
+  }
+   .image_class{
+    display: none;
+  }
+   .title{
+    text-align: center;
+  }
+  .navbar_mobile{
+    flex-direction: row !important;
+  }
+  form{
+    padding: 40px;
+  }
+  
+}
